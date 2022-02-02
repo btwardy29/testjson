@@ -15,56 +15,5 @@
 		"id": "gsgb24",
 		"name": "Żarówka Korytarz",
 		"connectionState": "poor connection"
-	},
-	{
-		"type": "bulb",
-		"id": "gsgb245c",
-		"name": "Żarówka kuchnia",
-		"connectionState": "disconnected"
-	},
-	{
-		"type": "outlet",
-		"id": "faf24attg",
-		"name": "Gniazdko salon",
-		"connectionState": "connected"
-	},
-	{
-		"type": "outlet",
-		"id": "g11sgb",
-		"name": "Gniazdko sypialnia",
-		"connectionState": "connected"
-	},
-	{
-		"type": "outlet",
-		"id": "g56sgb24",
-		"name": "Gniazdko Korytarz",
-		"connectionState": "poor connection"
-	},
-
-	{
-		"type": "temperatureSensor",
-		"id": "faf62667attg",
-		"name": "Czujnik temperatury salon",
-		"connectionState": "connected"
-	},
-	{
-		"type": "temperatureSensor",
-		"id": "gs373gb",
-		"name": "Czujnik temperatury sypialnia",
-		"connectionState": "connected"
-	},
-	{
-		"type": "temperatureSensor",
-		"id": "gsgb22g24",
-		"name": "Czujnik temperatury Korytarz",
-		"connectionState": "poor connection"
-	},
-	{
-		"type": "temperatureSensor",
-		"id": "gsgb2636345c",
-		"name": "Czujnik temperatury kuchnia",
-		"connectionState": "disconnected"
 	}
-
-
-]
+ ]
